@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 
 [![Portfolio](https://img.shields.io/badge/🌐_My_Portfolio-Visit_Now-blue?style=for-the-badge)](https://mujin0422.github.io)
+[![GitHub](https://img.shields.io/badge/GitHub-mujin0422-181717?style=for-the-badge&logo=github)](https://github.com/mujin0422)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phamdinhduythai@gmail.com)
 
 ### GitHub activity
 
