@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 [![Portfolio](https://img.shields.io/badge/🌐_My_Portfolio-Visit_Now-blue?style=for-the-badge)](https://mujin0422.github.io)
 [![GitHub](https://img.shields.io/badge/GitHub-mujin0422-181717?style=for-the-badge&logo=github)](https://github.com/mujin0422)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phamdinhduythai@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nguyen%20Toan%20Thang-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thai-pham-155726400/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Thai_Pham-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/thai-pham-155726400/)
+
 
 ### GitHub activity
 
