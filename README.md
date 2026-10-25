@@ -17,13 +17,7 @@ Here are some ideas to get you started:
 
 ### GitHub activity
 
-<table width="100%" border="0">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=mujin0422&show_icons=true&theme=radical&hide_border=true" width="100%" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mujin0422&layout=compact&theme=radical&hide_border=true" width="100%" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mujin0422&show_icons=true&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mujin0422&layout=compact&theme=radical&hide_border=true" />
+</div>
