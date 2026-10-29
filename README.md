@@ -21,9 +21,7 @@ Here are some ideas to get you started:
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Thai_Pham-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/thai-pham-155726400/)
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+profile!;I'm+Thai+Pham;A+passionate+developer+from+Vietnam" alt="Typing SVG" />
-  </a>
+  <img src="https://animatedsvg.vercel.app/generate?lines=Welcome%20to%20my%20GitHub%20profile!%3BI'm%20Thai%20Pham%3BA%20passionate%20developer%20from%20Vietnam&animation=glitch&font=JetBrains+Mono&color=F75C7E&width=600&height=60&glitch_intensity=10" alt="Glitch Text" />
 </p>
 
 
@@ -36,15 +34,4 @@ Here are some ideas to get you started:
 
 <div align="center" style="margin-top: 10px;">
   <img width="98%" src="https://streak-stats.demolab.com?user=mujin0422&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
-### Profile Summary
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mujin0422&theme=radical" alt="Profile Details" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mujin0422&theme=radical" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mujin0422&theme=radical" alt="Most Commit Language" />
 </div>
