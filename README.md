@@ -46,3 +46,13 @@ Here are some ideas to get you started:
   <img src="https://github-profile-trophy.vercel.app/?username=mujin0422&theme=radical&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophy" />
 </div>
 
+### Profile Summary
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mujin0422&theme=radical" alt="Profile Details" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mujin0422&theme=radical" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mujin0422&theme=radical" alt="Most Commit Language" />
+</div>
