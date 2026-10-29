@@ -30,3 +30,9 @@ Here are some ideas to get you started:
 <div align="center">
   <img width="760em"; src="https://streak-stats.demolab.com?user=mujin0422&theme=radical&hide_border=true&card_width=1000" alt="GitHub Streak" />
 </div>
+
+### Profile Summary
+
+<div align="center">
+  <img width="760em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mujin0422&theme=radical" alt="Profile Details" />
+</div>
