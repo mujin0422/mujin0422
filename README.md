@@ -23,10 +23,19 @@ Here are some ideas to get you started:
 ### GitHub activity
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.shion.dev/api?username=mujin0422&show_icons=true&theme=radical&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=mujin0422&layout=compact&theme=radical&hide_border=true" />
-</div>
-
-<div align="center" style="margin-top: 10px;">
-  <img width="98%" src="https://streak-stats.demolab.com?user=mujin0422&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td align="center">
+        <img height="180em" src="https://github-readme-stats.shion.dev/api?username=mujin0422&show_icons=true&theme=radical&hide_border=true" />
+      </td>
+      <td align="center">
+        <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=mujin0422&layout=compact&theme=radical&hide_border=true" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img width="100%" src="https://streak-stats.demolab.com?user=mujin0422&theme=radical&hide_border=true&card_width=850" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
 </div>
