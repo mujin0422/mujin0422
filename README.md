@@ -33,3 +33,16 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.shion.dev/api?username=mujin0422&show_icons=true&theme=radical&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=mujin0422&layout=compact&theme=radical&hide_border=true" />
 </div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=mujin0422&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mujin0422&theme=radical&hide_border=true" alt="Activity Graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mujin0422&theme=radical&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophy" />
+</div>
+
