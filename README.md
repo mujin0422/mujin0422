@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-  <img style="width: calc(440px * 2 + 12px); " src="https://streak-stats.demolab.com?user=mujin0422&theme=radical&hide_border=true&card_width=1000" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=mujin0422&theme=radical&hide_border=true&card_width=960" alt="GitHub Streak" />
 </div>
