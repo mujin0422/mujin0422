@@ -22,10 +22,12 @@ Here are some ideas to get you started:
 
 ### GitHub activity
 
-<div align="center">
-  <p align="center">
-    <img width="49%" height="200" align="center" src="https://github-readme-stats.shion.dev/api?username=mujin0422&show_icons=true&theme=radical&hide_border=true" /><img width="49%" height="200" align="center" src="https://github-readme-stats.shion.dev/api/top-langs/?username=mujin0422&layout=compact&langs_count=8&card_width=400&theme=radical&hide_border=true" />
-  </p>
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
+  <img height="180em" src="https://github-readme-stats.shion.dev/api?username=mujin0422&show_icons=true&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=mujin0422&layout=compact&theme=radical&hide_border=true" />
+</div>
 
-  <img width="100%" src="https://streak-stats.demolab.com?user=mujin0422&theme=radical&hide_border=true&card_width=1000" alt="GitHub Streak" />
+<div align="center" style="display: flex; justify-content: center; margin-top: 10px;">
+  <!-- Dùng calc để cộng 2 thẻ (495px * 2) + gap (10px) -->
+  <img style="width: calc(495px * 2 + 10px); max-width: 100%;" src="https://streak-stats.demolab.com?user=mujin0422&theme=radical&hide_border=true&card_width=1000" alt="GitHub Streak" />
 </div>
