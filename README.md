@@ -35,8 +35,7 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-  <!-- Thẻ Streak: Thu nhỏ chiều rộng để cân đối với 2 thẻ trên -->
-  <img width="400" src="https://streak-stats.demolab.com?user=mujin0422&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img width="820" src="https://streak-stats.demolab.com?user=mujin0422&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ### Profile Summary
