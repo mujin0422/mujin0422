@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 ### GitHub activity
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
-  <img height="240em" src="https://github-readme-stats.shion.dev/api?username=mujin0422&show_icons=true&theme=radical&hide_border=true" />
-  <img height="240em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=mujin0422&layout=compact&theme=radical&hide_border=true" />
+  <img height="220em" src="https://github-readme-stats.shion.dev/api?username=mujin0422&show_icons=true&theme=radical&hide_border=true" />
+  <img height="220em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=mujin0422&layout=compact&theme=radical&hide_border=true" />
 </div>
 
 <div align="center" style="display: flex; justify-content: center; margin-top: 10px;">
