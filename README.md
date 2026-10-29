@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center" style="display: flex; justify-content: center; margin-top: 10px;">
-  <img width="52em" src="https://streak-stats.demolab.com?user=mujin0422&theme=radical&hide_border=true&card_width=850" alt="GitHub Streak" />
+  <img width="180em" src="https://streak-stats.demolab.com?user=mujin0422&theme=radical&hide_border=true&card_width=850" alt="GitHub Streak" />
 </div>
