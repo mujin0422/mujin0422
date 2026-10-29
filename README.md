@@ -35,15 +35,8 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mujin0422&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mujin0422&theme=radical&hide_border=true" alt="Activity Graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mujin0422&theme=radical&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophy" />
+  <!-- Thẻ Streak: Thu nhỏ chiều rộng để cân đối với 2 thẻ trên -->
+  <img width="400" src="https://streak-stats.demolab.com?user=mujin0422&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ### Profile Summary
