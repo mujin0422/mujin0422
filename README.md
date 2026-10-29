@@ -24,8 +24,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <p align="center">
-    <img width="49%" src="https://github-readme-stats.shion.dev/api?username=mujin0422&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-    <img width="49%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=mujin0422&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+    <img width="49%" height="200" align="center" src="https://github-readme-stats.shion.dev/api?username=mujin0422&show_icons=true&theme=radical&hide_border=true" /><img width="49%" height="200" align="center" src="https://github-readme-stats.shion.dev/api/top-langs/?username=mujin0422&layout=compact&langs_count=8&card_width=400&theme=radical&hide_border=true" />
   </p>
 
   <img width="100%" src="https://streak-stats.demolab.com?user=mujin0422&theme=radical&hide_border=true&card_width=1000" alt="GitHub Streak" />
