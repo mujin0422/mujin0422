@@ -20,11 +20,6 @@ Here are some ideas to get you started:
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phamdinhduythai@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Thai_Pham-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/thai-pham-155726400/)
 
-<p align="center">
-  <img src="https://animatedsvg.vercel.app/generate?lines=Welcome%20to%20my%20GitHub%20profile!%3BI'm%20Thai%20Pham%3BA%20passionate%20developer%20from%20Vietnam&animation=glitch&font=JetBrains+Mono&color=F75C7E&width=600&height=60&glitch_intensity=10" alt="Glitch Text" />
-</p>
-
-
 ### GitHub activity
 
 <div align="center">
