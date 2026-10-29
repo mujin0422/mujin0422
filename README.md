@@ -22,10 +22,9 @@ Here are some ideas to get you started:
 
 ### GitHub activity
 
-<div align="center" style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; justify-items: center; align-items: center;">
-  <img height="180em" src="https://github-readme-stats.shion.dev/api?username=mujin0422&show_icons=true&theme=radical&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=mujin0422&layout=compact&theme=radical&hide_border=true" />
+<div align="center" style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; justify-items: center; align-items: center; width: 100%;">
+  <img width="100%" src="https://github-readme-stats.shion.dev/api?username=mujin0422&show_icons=true&theme=radical&hide_border=true" />
+  <img width="100%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=mujin0422&layout=compact&theme=radical&hide_border=true" />
   
-  <!-- Thẻ dưới trải dài qua 2 cột (grid-column: span 2) -->
-  <img style="grid-column: span 2; width: 100%; max-width: 850px;" src="https://streak-stats.demolab.com?user=mujin0422&theme=radical&hide_border=true&card_width=850" alt="GitHub Streak" />
+  <img style="grid-column: span 2; width: 100%; max-width: 1000px;" src="https://streak-stats.demolab.com?user=mujin0422&theme=radical&hide_border=true&card_width=1000" alt="GitHub Streak" />
 </div>
