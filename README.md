@@ -20,6 +20,12 @@ Here are some ideas to get you started:
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phamdinhduythai@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Thai_Pham-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/thai-pham-155726400/)
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+profile!;I'm+Thai+Pham;A+passionate+developer+from+Vietnam" alt="Typing SVG" />
+  </a>
+</p>
+
 
 ### GitHub activity
 
