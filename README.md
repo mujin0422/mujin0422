@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 
 ### GitHub activity
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
-  <img height="200em" src="https://github-readme-stats.shion.dev/api?username=mujin0422&show_icons=true&theme=radical&hide_border=true" />
-  <img height="200em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=mujin0422&layout=compact&theme=radical&hide_border=true" />
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 12px; flex-wrap: wrap;">
+  <img height="180em" src="https://github-readme-stats.shion.dev/api?username=mujin0422&show_icons=true&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=mujin0422&layout=compact&theme=radical&hide_border=true" />
 </div>
 
-<div align="center" style="display: flex; justify-content: center; margin-top: 10px;">
-  <img style="width: calc(480px * 2 + 10px); " src="https://streak-stats.demolab.com?user=mujin0422&theme=radical&hide_border=true&card_width=1000" alt="GitHub Streak" />
+<div align="center" style="display: flex; justify-content: center">
+  <img style="width: calc(440px * 2 + 12px); " src="https://streak-stats.demolab.com?user=mujin0422&theme=radical&hide_border=true&card_width=1000" alt="GitHub Streak" />
 </div>
