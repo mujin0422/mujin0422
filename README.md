@@ -27,10 +27,6 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=mujin0422&layout=compact&theme=radical&hide_border=true" />
 </div>
 
-<div align="center" style="display: flex; justify-content: center; margin-top: 10px; gap: 10px;">
-  <!-- Thẻ Streak: Dùng flex: 1 để tự động co giãn lấp đầy khoảng trống -->
-  <img style="flex: 1; min-width: 0; max-width: 100%;" src="https://streak-stats.demolab.com?user=mujin0422&theme=radical&hide_border=true&card_width=850" alt="GitHub Streak" />
-  
-  <!-- Thẻ vô hình: Đóng vai trò là "chốt chặn" bên phải -->
-  <img style="width: 0px; height: 0px; visibility: hidden;" alt="" />
+<div align="center" style="display: flex; justify-content: center; margin-top: 10px;">
+  <img style="width: calc(480px * 2 + 10px); max-width: 100%;" src="https://streak-stats.demolab.com?user=mujin0422&theme=radical&hide_border=true&card_width=1000" alt="GitHub Streak" />
 </div>
