@@ -22,9 +22,20 @@ Here are some ideas to get you started:
 
 ### GitHub activity
 
-<div align="center" style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; justify-items: center; align-items: center; width: 100%;">
-  <img width="100%" src="https://github-readme-stats.shion.dev/api?username=mujin0422&show_icons=true&theme=radical&hide_border=true" />
-  <img width="100%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=mujin0422&layout=compact&theme=radical&hide_border=true" />
-  
-  <img style="grid-column: span 2; width: 100%; max-width: 1000px;" src="https://streak-stats.demolab.com?user=mujin0422&theme=radical&hide_border=true&card_width=1000" alt="GitHub Streak" />
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="10" style="border-collapse: collapse; border: none;">
+    <tr>
+      <td align="center" valign="middle" style="border: none;">
+        <img height="180em" src="https://github-readme-stats.shion.dev/api?username=mujin0422&show_icons=true&theme=radical&hide_border=true" />
+      </td>
+      <td align="center" valign="middle" style="border: none;">
+        <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=mujin0422&layout=compact&theme=radical&hide_border=true" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center" valign="middle" style="border: none;">
+        <img width="100%" src="https://streak-stats.demolab.com?user=mujin0422&theme=radical&hide_border=true&card_width=850" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
 </div>
