@@ -21,8 +21,11 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Thai_Pham-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/thai-pham-155726400/)
 
 ### About me
+
 I'm a final-year Computer Engineering student with a strong passion for networking.
+
 I'm currently focusing on building my skills to become a **Network Engineer**.
+
 Beyond networking, I'm actively exploring the exciting worlds of **AI/Machine Learning** and **Cybersecurity** to broaden my knowledge.
 
 ### Tech Stack
