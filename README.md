@@ -31,7 +31,7 @@ Beyond networking, I'm actively exploring the exciting worlds of **AI/Machine Le
 ## Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,java,linux,bash,fastapi,docker,git,github&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=py,java,c,cpp,linux,bash,fastapi,docker,git,github&theme=dark" alt="Tech Stack" />
 </p>
 
 <p align="left">
