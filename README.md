@@ -22,13 +22,17 @@ Here are some ideas to get you started:
 
 ### About me
 I'm a final-year Computer Engineering student with a strong passion for networking.
-I'm currently focusing on building my skills to become a Network Engineer.
-Beyond networking, I'm actively exploring the exciting worlds of AI/Machine Learning and Cybersecurity to broaden my knowledge.
+I'm currently focusing on building my skills to become a **Network Engineer**.
+Beyond networking, I'm actively exploring the exciting worlds of **AI/Machine Learning** and **Cybersecurity** to broaden my knowledge.
 
 ### Tech Stack
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=py,java,linux,bash,fastapi,docker,git,github&theme=dark" alt="Tech Stack" />
+</p>
+
+<p align="left">
+  <i>Specialized in: TCP/IP Sockets, GNS3, Cisco IOS, Netmiko, LangChain</i>
 </p>
 
 ### GitHub activity
