@@ -1,4 +1,4 @@
-## Hi there 👋
+## Pham Dinh Duy Thai
 
 <!--
 **mujin0422/mujin0422** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
