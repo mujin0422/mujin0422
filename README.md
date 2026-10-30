@@ -18,7 +18,18 @@ Here are some ideas to get you started:
 [![Portfolio](https://img.shields.io/badge/🌐_My_Portfolio-Visit_Now-blue?style=for-the-badge)](https://mujin0422.github.io)
 [![GitHub](https://img.shields.io/badge/GitHub-mujin0422-181717?style=for-the-badge&logo=github)](https://github.com/mujin0422)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phamdinhduythai@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Thai_Pham-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/thai-pham-155726400/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Thai_Pham-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/thai-pham-155726400/)
+
+### About me
+I'm a final-year Computer Engineering student with a strong passion for networking.
+I'm currently focusing on building my skills to become a Network Engineer.
+Beyond networking, I'm actively exploring the exciting worlds of AI/Machine Learning and Cybersecurity to broaden my knowledge.
+
+### Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,java,linux,bash,fastapi,docker,git,github&theme=dark" alt="Tech Stack" />
+</p>
 
 ### GitHub activity
 
