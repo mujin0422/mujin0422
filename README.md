@@ -35,7 +35,7 @@ Beyond networking, I'm actively exploring the exciting worlds of **AI/Machine Le
 </p>
 
 <p align="left">
-  <i>Specialized in: TCP/IP Sockets, GNS3, Cisco IOS, Netmiko, LangChain</i>
+  <i><b>Specialized in:</b> TCP/IP Sockets, GNS3, Cisco IOS, Netmiko</i>
 </p>
 
 ## GitHub activity
